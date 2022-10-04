@@ -5,3 +5,4 @@ Maybe useful for future tasks.
 
 By using the program, you can predict the relationship between to names:
 
+![Application demo](/imgs/demo.png)
